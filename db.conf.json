@@ -1,0 +1,11 @@
+{
+  "tables": [
+    {
+      "name": "users",
+      "columns": {
+        "name": ["string"],
+        "grade": ["integer"]
+      }
+    }
+  ]
+}
